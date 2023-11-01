@@ -1,4 +1,4 @@
-# React + Vite
+# Keeper App React + Vite
 
 This React keeper app utilises the Vite template.
 
